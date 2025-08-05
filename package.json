@@ -1,5 +1,6 @@
 {
   "name": "react-pagination-hook",
+  "description": "A React hook for pagination, including ellipsed pages",
   "private": true,
   "version": "0.0.0",
   "type": "module",
